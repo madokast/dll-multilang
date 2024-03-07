@@ -29,5 +29,6 @@ void run(char* dll_path) {
 int main() {
     run("./c_add.dll");
     run("../cpp/cpp_add.dll");
+    run("../go/go_add.dll");
 }
 
