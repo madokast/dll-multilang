@@ -28,5 +28,6 @@ void run(char* dll_path) {
 // gcc -o3 -o .\c\main.exe .\c\main.c
 int main() {
     run("./c_add.dll");
+    run("../cpp/cpp_add.dll");
 }
 

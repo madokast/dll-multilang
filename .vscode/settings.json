@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "go_add.h": "c",
+        "stdio.h": "c"
+    }
+}
